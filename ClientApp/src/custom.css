@@ -1,0 +1,23 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #03d642;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  background-color: black;
+}
+main-container{
+  padding: 10px 10px;
+
+
+}
+body
+{
+  padding: 100x 10px;
+}
